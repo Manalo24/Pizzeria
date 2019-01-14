@@ -39,7 +39,7 @@ public class Menu {
 		}
 		}
 		for (int u=0;u<k;u++) {
-			System.out.println(arrayNo[k].toString());
+			System.out.println(arrayNo[u].toString());
 		}
 		
 	}
