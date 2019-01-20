@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Pizza {		
 	String nome;
 	double prezzo;
-	String[]ingredienti = new String[3];
+	String[]ingredienti = new String[2];
 	public Pizza(String nome, double prezzo, String[] ingredienti) {
 		this.nome = nome;
 		this.prezzo = prezzo;
